@@ -16,12 +16,12 @@
             {
                 "version": "11.5.2",
                 "variant": "minimal",
-                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_aliothin-img-20210625-minimal.zip"
+                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_taimen-factory_11.5.0.zip"
             },
             {
                 "version": "11.5.2",
                 "variant": "gapps",
-                "url": "https://dl.hasaber8.me/ProtonAOSP/proton-aosp_aliothin-img-20210625-gapps.zip"
+                "url": "https://github-releases-proxy.kdrag0n.workers.dev/android_device_google_wahoo/v11.5.0/proton-aosp_taimen-factory_11.5.0.zip"
             }
         ]
     }
